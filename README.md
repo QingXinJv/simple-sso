@@ -1,0 +1,3 @@
+### 0.1版本完成：用最简单的方式实现单点登录逻辑，请查看0.1分支
+### 0.2版本开始...
+### 数据库 名字 sheefee 用户名 root 密码 root 表 user 列 id,username,password ; 用户名sheefee 密码123456
